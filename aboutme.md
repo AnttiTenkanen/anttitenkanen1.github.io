@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: !["... All homepages are wrong, but some of them are useful..."](https://en.wikipedia.org/wiki/All_models_are_wrong)
+subtitle: "... All homepages are wrong, but some of them are useful..."(1)
 ---
 
 Hi! You've reached the homepages of Antti Tenkanen, a random collection of my thoughts and links to things I find interesting.
@@ -22,3 +22,5 @@ This site is ***under construction***, but will mainly be used as a repository f
 ### Why?
 
 To be honest, I haven't been very active in social media, and when I began my PhD studies I felt a kind of obligation to take part in at least some of the discussion in society. I might still fail to do that, but at least I hope this site will offer a little bit of interest to some people.
+
+[1](https://en.wikipedia.org/wiki/All_models_are_wrong)
