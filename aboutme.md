@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: "... All homepages are wrong, but some of them are useful..."(1)
+subtitle: ... All homepages are wrong, but some of them are useful...(1)
 ---
 
 Hi! You've reached the homepages of Antti Tenkanen, a random collection of my thoughts and links to things I find interesting.
