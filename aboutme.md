@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: ["... All homepages are wrong, but some of them are useful..."](https://en.wikipedia.org/wiki/All_models_are_wrong)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! You've reached the homepages of Antti Tenkanen, a random collection of my thoughts and links to things I find interesting.
+I'm a biology PhD student at the University of Eastern Finland (UEF), and my main research topic is boreal forest tree ecophysiology and photosynthesis modeling. So expect to see some of that. But that's not all there is to life!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This site is under construction, but will mainly be used as a repository for my thoughts on my other interests in life
 
-What else do you need?
+- Photography
+- Music
+- Electronics
+- Homebrewing (yes, beer)
+- Statistics and the R language
+- I will also be providing links to interesting discussions etc. on
+   - Global food production
+   - Pseudoscience
 
-### my history
+### Why?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I haven't been very active in social media, and when I began my PhD studies I felt a kind of obligation to take part in at least some of the discussion in society. I might still fail to do that, but at least I hope this site will offer a little bit of interest to some people.
