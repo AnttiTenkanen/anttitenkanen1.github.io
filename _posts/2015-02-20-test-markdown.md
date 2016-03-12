@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Welcome!
+subtitle: This is the aimless diary of my stray thoughts.
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+These are my personal project pages, read the [about](http://anttitenkanen.github.io/aboutme/) for more info.
+
+
 
 **Here is some bold text**
 
@@ -20,9 +22,8 @@ Here's a useless table:
 | Two | Three | One |
  
 
-How about a yummy crepe?
 
-![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
+![Photo](https://farm1.staticflickr.com/629/21183684852_d8451f1505_k.jpg)
 
 Here's a code chunk:
 
