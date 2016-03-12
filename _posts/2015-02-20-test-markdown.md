@@ -4,7 +4,7 @@ title: Welcome!
 subtitle: This is the aimless diary of my stray thoughts.
 ---
 
-These are my personal project pages, read the [about](http://anttitenkanen.github.io/aboutme/) for more info.
+These are my personal project pages, read here for more info.
 
 
 
@@ -23,7 +23,9 @@ Here's a useless table:
  
 
 
-![Photo](https://farm1.staticflickr.com/629/21183684852_d8451f1505_k.jpg)
+![Photo](https://farm3.staticflickr.com/2824/10252251076_edbb10719a_k.jpg)
+Some of my photography can be found from my [Flick](https://www.flickr.com/photos/gambina)
+
 
 Here's a code chunk:
 
