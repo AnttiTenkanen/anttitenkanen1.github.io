@@ -4,10 +4,9 @@ title: Brews
 subtitle: Some of my best homebrews, with instructions!
 ---
 
-### Sahti
-#### _For my first post, a modern variant of the famous ancient Finnish brew_
-##### _Posted 12.3.2016_
-
+### Sahti  
+#### _For my first post, a modern variant of the famous ancient Finnish brew_  
+##### _Posted 12.3.2016_  
 
 blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabl
 ablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablab
