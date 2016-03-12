@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: ... All homepages are wrong, but some of them are useful ...<sup>1</sup>
+subtitle: ... All homepages are wrong, but some of them are useful ...<sup>[1](https://en.wikipedia.org/wiki/All_models_are_wrong)</sup>
 ---
 
 Hi! You've reached the homepages of Antti Tenkanen, a random collection of my thoughts and links to things I find interesting.
