@@ -23,7 +23,7 @@ Here's a useless table:
  
 
 
-![Photo](https://farm3.staticflickr.com/2824/10252251076_edbb10719a_k.jpg)
+![Photo](https://farm6.staticflickr.com/5450/9491168124_5f771846e4_k.jpg)
 Some of my photography can be found from my [Flick](https://www.flickr.com/photos/gambina)
 
 
