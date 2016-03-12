@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: http://anttitenkanen.github.io/
+title: Antti Tenkanen
 
 # Short description of your site
 description: Personal site to store my random thoughts and links
@@ -49,9 +49,9 @@ footer-links-active:
   facebook: false
   email: true
   twitter: false
-  github: true
+  github: false
   linkedin: false
-  stackoverflow: true
+  stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
