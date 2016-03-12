@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Brew
-subtitle: some of my best homebrews, with instructions!
+title: Brews
+subtitle: _Some of my best homebrews, with instructions!_
 ---
 
 # first
