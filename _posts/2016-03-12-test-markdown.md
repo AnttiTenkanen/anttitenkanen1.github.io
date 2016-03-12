@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Welcome!
-subtitle: This is the aimless diary of my stray thoughts.
+title: Welcome...
+subtitle: ... to the is the aimless diary of my stray thoughts.
 ---
 
-These are my personal project pages, read here for more info.
-Hi! You’ve reached the homepages of Antti Tenkanen, a random collection of my thoughts and links to things I find interesting. I’m a biology PhD student at the University of Eastern Finland (UEF). If you came here just to see my bio, head right on to the [about page](http://anttitenkanen.github.io/aboutme/). My main research topic is boreal forest tree ecophysiology and photosynthesis modeling. So expect to see some of that. **But that’s not all there is to life!**
+You’ve reached my personal project pages, a random collection of my thoughts and links to things I find interesting. I’m a biology PhD student at the University of Eastern Finland (UEF). If you came here just to see my bio, head right on to the [about page](http://anttitenkanen.github.io/aboutme/). My main research topic is boreal forest tree ecophysiology and photosynthesis modeling. So expect to see some of that. **But that’s not all there is to life!**
 
 This site is ***under construction***, but will mainly be used as a repository for my thoughts on my other interests in life
 
