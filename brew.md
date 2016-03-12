@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Brews
-subtitle: _Some of my best homebrews, with instructions!_
+subtitle: Some of my best homebrews, with instructions!
 ---
 
-# first
+### Sahti
+#### _For my first post, a modern variant of the famous ancient Finnish brew_
+##### _Posted 12.3.2016_
 
 
 blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabl
