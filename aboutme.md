@@ -23,9 +23,3 @@ This site is ***under construction***, but will mainly be used as a repository f
 
 To be honest, I haven't been very active in social media, and when I began my PhD studies I felt a kind of obligation to take part in at least some of the discussion in society and wanted to start sharing the little I know about stuff. I might still fail to do that, but at least I hope this site will offer a little bit of interest to some people. Some of the discussion might be in Finnish only without any warning :)
 _Disclaimer_: All opinions are mine, and mine alone.
-
-
-
-
-
-[1](https://en.wikipedia.org/wiki/All_models_are_wrong)
