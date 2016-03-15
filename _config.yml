@@ -27,10 +27,14 @@ avatar: "https://i1.rgstatic.net/ii/profile.image/AS%3A323145850916865@145405538
 
 # List of links in the navigation bar
 navbar-links:
+  Home: ""
+  About: "aboutme"
   Photography: "Photography"
   Brews: "brew"
-  About: "aboutme"
-  Home: ""
+  Stats: "stats"
+  Music: "music"
+  Electronics: "electronics"
+  Misc: "misc"
   
 # --- Footer options --- #
 
