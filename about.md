@@ -1,11 +1,9 @@
 ---
 layout: page
 title: About
-subtitle: ... All homepages are wrong, but some of them are useful ...![Photo](https://i1.rgstatic.net/ii/profile.image/AS%3A323145850916865@1454055382885_l/Antti_Tenkanen.png)
 ---
 
-... And this page especially will be quite useful if you came here to find out about me.  
-
+Hi there. This is my extended professional bio.
 
 
 ![Photo](https://i1.rgstatic.net/ii/profile.image/AS%3A323145850916865@1454055382885_l/Antti_Tenkanen.png)
