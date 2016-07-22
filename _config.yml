@@ -28,7 +28,7 @@ avatar: "https://c1.staticflickr.com/9/8173/7988236715_6af71d1b53_b.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About: "aboutme"
+  About: "about"
   Photography: "photography"
   Brews: "brew"
   Stats: "stats"
