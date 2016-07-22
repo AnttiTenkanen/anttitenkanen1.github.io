@@ -28,7 +28,7 @@ description: Personal site
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About: "about"
+  Bio: "about"
   Photography: "photography"
   Brews: "brew"
   Stats: "stats"
