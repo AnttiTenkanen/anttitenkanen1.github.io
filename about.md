@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
+subtitle: Antti Tenkanen
 ---
 
-Hi there. This is my extended professional bio.
-
+<div style="text-align:center"><img src ="https://i1.rgstatic.net/ii/profile.image/AS%3A323145850916865@1454055382885_l/Antti_Tenkanen.png" /></div>
 
 ![Photo](https://i1.rgstatic.net/ii/profile.image/AS%3A323145850916865@1454055382885_l/Antti_Tenkanen.png)
