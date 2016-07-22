@@ -8,4 +8,4 @@ subtitle: ... All homepages are wrong, but some of them are useful ...
 
 
 
-!(https://i1.rgstatic.net/ii/profile.image/AS%3A323145850916865@1454055382885_l/Antti_Tenkanen.png)
+![Photo](https://i1.rgstatic.net/ii/profile.image/AS%3A323145850916865@1454055382885_l/Antti_Tenkanen.png)
