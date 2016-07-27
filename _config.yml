@@ -28,13 +28,13 @@ description: Personal site
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Bio: "about"
+  BIO: "about"
   Photography: "photography"
   Brews: "brew"
   Stats: "stats"
   Music: "music"
   Electronics: "electronics"
-  Misc: "misc"
+  GMO: "gmo"
   
 # --- Footer options --- #
 
