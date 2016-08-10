@@ -58,7 +58,7 @@ class EasyPageComments
   // If EPC_path starts with "http", the path will be treated
   // as an absolute URL. This is useful when your comment script
   // lives on a different domain from the page(s) you use it for.
-  var $EPC_path = "index.html";
+  var $EPC_path = "http://anttitenkanen.github.io/stats/";
 
 // -----------------------------------------
 //      DO NOT MODIFY BEYOND THIS POINT
