@@ -29,12 +29,11 @@ description: Personal site
 navbar-links:
   Home: "https://anttitenkanen.github.io/"
   About: "https://anttitenkanen.github.io/about/"
-  Photography: "https://anttitenkanen.github.io/photography/"
   Brews: "https://anttitenkanen.github.io/brew/"
   Stats: "https://anttitenkanen.github.io/stats/"
   Music: "https://anttitenkanen.github.io/music/"
   Electronics: "https://anttitenkanen.github.io/electronics/"
-  Food: "news"
+  Food: "news/food"
   Misc: "misc"
   
 # --- Footer options --- #
