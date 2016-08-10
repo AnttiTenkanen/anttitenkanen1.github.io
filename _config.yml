@@ -33,7 +33,8 @@ navbar-links:
   Stats: "http://anttitenkanen.github.io/stats/"
   Music: "http://anttitenkanen.github.io/music/"
   Electronics: "http://anttitenkanen.github.io/electronics/"
-  News: "anttitenkanen.github.io/music/ anttitenkanen.github.io/food/"
+  News://music: "anttitenkanen.github.io/music/"
+  News://food: "anttitenkanen.github.io/food/"
   Misc: "http://anttitenkanen.github.io/misc/"
   
 # --- Footer options --- #
