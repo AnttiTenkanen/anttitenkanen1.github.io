@@ -27,14 +27,14 @@ description: Personal site
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://anttitenkanen.github.io/"
-  About: "https://anttitenkanen.github.io/about/"
-  Brews: "https://anttitenkanen.github.io/brew/"
-  Stats: "https://anttitenkanen.github.io/stats/"
-  Music: "https://anttitenkanen.github.io/music/"
-  Electronics: "https://anttitenkanen.github.io/electronics/"
+  Home: "http://anttitenkanen.github.io/"
+  About: "http://anttitenkanen.github.io/about/"
+  Brews: "http://anttitenkanen.github.io/brew/"
+  Stats: "http://anttitenkanen.github.io/stats/"
+  Music: "http://anttitenkanen.github.io/music/"
+  Electronics: "http://anttitenkanen.github.io/electronics/"
   Food: "news/food"
-  Misc: "misc"
+  Misc: "http://anttitenkanen.github.io/misc/"
   
 # --- Footer options --- #
 
