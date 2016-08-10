@@ -29,8 +29,8 @@ description: Personal site
 navbar-links:
   Home: "http://anttitenkanen.github.io/"
   Links:
-    - Music: "music"
-    - Misc: "misc"
+    - Music: "http://anttitenkanen.github.io/music/"
+    - Misc: "http://anttitenkanen.github.io/misc/"
   About: "http://anttitenkanen.github.io/about/"
   Food: "http://anttitenkanen.github.io/food/"
   Brews: "http://anttitenkanen.github.io/brew/"
