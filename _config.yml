@@ -29,13 +29,12 @@ description: Personal site
 navbar-links:
   Home: "http://anttitenkanen.github.io/"
   About: "http://anttitenkanen.github.io/about/"
-  News:
-    - GMOs: "http://anttitenkanen.github.io/gmonews/"
-  Links:
-    - Food Production: "http://anttitenkanen.github.io/foodlinks/"
-    - Stats: "http://anttitenkanen.github.io/statslinks/"
+  Random:
+    - GMOs: "http://anttitenkanen.github.io/gmo/"
+    - Food stuff: "http://anttitenkanen.github.io/food/"
+    - Stats: "http://anttitenkanen.github.io/stats/"
     - Music: "http://anttitenkanen.github.io/music/"
-    - Misc: "http://anttitenkanen.github.io/misclinks/"
+    - Misc: "http://anttitenkanen.github.io/misc/"
   Projects:
     - Homebrewing: "http://anttitenkanen.github.io/brew/"
     - Electronics: "http://anttitenkanen.github.io/electronics/"
