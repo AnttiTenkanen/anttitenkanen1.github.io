@@ -30,14 +30,15 @@ navbar-links:
   Home: "http://anttitenkanen.github.io/"
   About: "http://anttitenkanen.github.io/about/"
   News:
-    - >>GMOs: "http://anttitenkanen.github.io/gmonews/"
+    - GMOs: "http://anttitenkanen.github.io/gmonews/"
   Links:
-    - >>Music: "http://anttitenkanen.github.io/music/"
-    - >>Stats: "http://anttitenkanen.github.io/statslinks/"
-    - >>Misc: "http://anttitenkanen.github.io/misclinks/"
+    - Food Production: "http://anttitenkanen.github.io/foodlinks/"
+    - Stats: "http://anttitenkanen.github.io/statslinks/"
+    - Music: "http://anttitenkanen.github.io/music/"
+    - Misc: "http://anttitenkanen.github.io/misclinks/"
   Projects:
-    - >>Homebrewing: "http://anttitenkanen.github.io/brew/"
-    - >>Electronics: "http://anttitenkanen.github.io/electronics/"
+    - Homebrewing: "http://anttitenkanen.github.io/brew/"
+    - Electronics: "http://anttitenkanen.github.io/electronics/"
   
 # --- Footer options --- #
 
