@@ -6,7 +6,7 @@ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
-  position: center;
+  position: relative;
   background: #FFF;
 }
 p {
@@ -44,7 +44,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 80px;
+  padding-top: 800px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
