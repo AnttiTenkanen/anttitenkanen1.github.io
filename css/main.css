@@ -417,10 +417,11 @@ footer .theme-by {
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
-  text-align: center;
+  margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
+  text-align:center;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
