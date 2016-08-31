@@ -421,12 +421,10 @@ footer .theme-by {
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
-  text-align: center;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
-  text-align: center;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
