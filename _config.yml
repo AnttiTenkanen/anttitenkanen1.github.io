@@ -28,9 +28,8 @@ description: Personal site
 # List of links in the navigation bar
 navbar-links:
   Home: "http://anttitenkanen.github.io/"
-  About: "http://anttitenkanen.github.io/about/"
-  Projects:
-    - Homebrewing: "http://anttitenkanen.github.io/brew/"
+#  Projects:
+#    - Homebrewing: "http://anttitenkanen.github.io/brew/"
 #    - Electronics: "http://anttitenkanen.github.io/electronics/"
   Random:
     - GMOs: "http://anttitenkanen.github.io/gmo/"
@@ -38,6 +37,7 @@ navbar-links:
     - Stats: "http://anttitenkanen.github.io/stats/"
     - Music: "http://anttitenkanen.github.io/music/"
     - Misc: "http://anttitenkanen.github.io/misc/"
+  About: "http://anttitenkanen.github.io/about/"
   
 # --- Footer options --- #
 
