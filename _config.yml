@@ -33,8 +33,7 @@ navbar-links:
     - Brewing: "http://anttitenkanen.github.io/brew/"
 #    - Electronics: "http://anttitenkanen.github.io/electronics/"
   Random:
-    - GMOs: "http://anttitenkanen.github.io/gmo/"
-    - Food stuff: "http://anttitenkanen.github.io/food/"
+    - News: "http://anttitenkanen.github.io/news/"
     - Stats: "http://anttitenkanen.github.io/stats/"
     - Music: "http://anttitenkanen.github.io/music/"
     - Misc: "http://anttitenkanen.github.io/misc/"
