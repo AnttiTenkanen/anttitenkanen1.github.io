@@ -17,16 +17,16 @@ class EasyPageComments
 // ------------------------------------
 
   // this is used to mark your own posts differently from everyone else's
-  var $admin_alias = "YourNameHere!";
+  var $admin_alias = "Antti";
 
   // the owner nickname is password protected, which is used in place of an email address
-  var $admin_password = "Entire Unicode passphrases work!";
+  var $admin_password = "joujoulammas";
 
   // what should be the security question for this page?
-  var $security_question = "If I write a three, and then a seven, which number did I write?";
+  var $security_question = "name of favourite pet?";
 
   // what are valid security answers for this page?
-  var $security_answers = array("37", "thirty seven", "thirty-seven", "thirtyseven", "３７");
+  var $security_answers = array("osku", "Osku");
 
   // should comment threads get an auto-generated RSS feed button?
   // (if true, remember to also set the $EPC_path variable, below)
