@@ -37,7 +37,7 @@ class EasyPageComments
   var $notify = true;
 
   // what's the email address to send those notifications to?
-  var $to = "test@example.org";
+  var $to = "tenkanen@uef.fi";
 
   // what's the subject you'd like?
   var $subject = "[EasyPageComments] page comment posted";
@@ -58,7 +58,7 @@ class EasyPageComments
   // If EPC_path starts with "http", the path will be treated
   // as an absolute URL. This is useful when your comment script
   // lives on a different domain from the page(s) you use it for.
-  var $EPC_path = "index.html";
+  var $EPC_path = "stats.html";
 
 // -----------------------------------------
 //      DO NOT MODIFY BEYOND THIS POINT
