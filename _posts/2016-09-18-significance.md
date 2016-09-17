@@ -4,7 +4,7 @@ title: Stats'n'shit
 subtitle: What is significance?
 ---
 
-Significance. One of those ambiguous word you often hear in connection with almost any science news
+Significant. It's one of those ambiguous words you often hear in connection with almost any science news
 (well, apparently newsworthy science news anyways).
 Well, I'm not going to try to answer the question in the title straight away, but I want to spark some discussion.
 Need inspiration on more favorably rephrahing a non-significant result in your publication?
