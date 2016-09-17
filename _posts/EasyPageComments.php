@@ -30,11 +30,11 @@ class EasyPageComments
 
   // should comment threads get an auto-generated RSS feed button?
   // (if true, remember to also set the $EPC_path variable, below)
-  var $rss = true;
+  var $rss = false;
 
   // should you be notified by email when someone posts a comment?
   // (if true, remember to also set the $EPC_path variable, below)
-  var $notify = true;
+  var $notify = false;
 
   // what's the email address to send those notifications to?
   var $to = "test@example.org";
