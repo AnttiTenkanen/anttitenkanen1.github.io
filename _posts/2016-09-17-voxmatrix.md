@@ -5,11 +5,24 @@ subtitle: Would it really matter if we lived in the Matrix?
 js: /EasyPageComments.js
 ---
 
-<style type="text/css">
+</div>
+
+<p1>Vox has a fun little lightweight philosophical venture into what Elon Musk said about our reality being a simulation. Worth a read, <a href="http://www.vox.com/2016/6/3/11837888/simulation-problem" target="_blank">check it out</a></p1>
+
+<h3>Comments</h3>
+<div id="Comments"></div>
  
+<h3>Leave a comment</h3>
+<div id="CommentForm"></div>
+
+<!-- JAKONAPIT -->
+
+<br>
+<style type="text/css">
 #share-buttons img {
 width: 35px;
 padding: 5px;
+text-align: center;
 border: 0;
 box-shadow: 0;
 display: inline;
@@ -42,12 +55,3 @@ display: inline;
         <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
     </a>
     
-</div>
-
-<p1>Vox has a fun little lightweight philosophical venture into what Elon Musk said about our reality being a simulation. Worth a read, <a href="http://www.vox.com/2016/6/3/11837888/simulation-problem" target="_blank">check it out</a></p1>
-
-<h3>Comments</h3>
-<div id="Comments"></div>
- 
-<h3>Leave a comment</h3>
-<div id="CommentForm"></div>
