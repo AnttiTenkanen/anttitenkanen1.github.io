@@ -28,6 +28,47 @@ layout: base
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
+      
+      <!-- JAKONAPIT -->
+      
+<br>
+<style type="text/css">
+#share-buttons img {
+width: 35px;
+padding: 5px;
+text-align: center;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+</style>
+<div id="share-buttons">
+    
+    <!-- Facebook -->
+    <a href="http://www.facebook.com/sharer.php?u={{ site.url }}" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+    </a>
+    
+    <!-- Google+ -->
+    <a href="https://plus.google.com/share?url={{ site.url }}" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+    </a>
+    
+    <!-- Print -->
+    <a href="javascript:;" onclick="window.print()">
+        <img src="https://simplesharebuttons.com/images/somacro/print.png" alt="Print" />
+    </a>
+    
+    <!-- Reddit -->
+    <a href="http://reddit.com/submit?url={{ site.url }}&amp;title=Share your thoughts about my site" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/reddit.png" alt="Reddit" />
+    </a>
+    
+    <!-- Twitter -->
+    <a href="https://twitter.com/share?url={{ site.url }}&amp;text=Share your thoughts about my site&amp;hashtags=fabulous" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+    </a>
+</div>
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
