@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stats'n'shit
-subtitle: The American Statistical Association and the p-value
+subtitle: The American Statistical Association and the P value
 ---
 
 Recently, the American Statistical Association issued <a href="http://amstat.tandfonline.com/doi/abs/10.1080/00031305.2016.1154108" target="_blank"> a statement</a> over the misuse of <i>P</i> values. This was also picked up by <a href ="http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503" target="_blank">Nature News</a>. This whole affair is, of course, just the latest in the great reproducibility crisis in science, I recommend reading at least something on the issue. Noah Snyder-Mackler shortly discusses the recent ASA statement <a href="http://www.molecularecologist.com/2016/03/a-statement-on-p-values-that-approaches-significance/" target="_blank">in the Molecular Ecologist.</a> It's a nice short explanation of the whole mess for those of us in a real hurry.
