@@ -134,24 +134,3 @@ var main = {
 };
 
 // 2fc73a3a967e97599c9763d05e564189
-
-document.addEventListener('DOMContentLoaded', main.init);
-
-// EasyPageComments
-  <link rel="stylesheet" type="text/css" href="EasyPageComments.css"/>
-  <script type="text/javascript" src="EasyPageComments.js"></script>
-    <script type="text/javascript">
-    <!--
-      function showEasyPageComments(name, data) {
-        document.getElementById('Comments').innerHTML = data; }
-
-      function showEasyPageCommentForm(name, data) {
-        document.getElementById('CommentForm').innerHTML = data; }
-
-      function addEasyPageComments() {
-        EasyPageComments.createCommentsList('stats');
-        EasyPageComments.createCommentForm('stats'); }
-
-      document.addEventListener("DOMContentLoaded", addEasyPageComments, false)
-    -->
-    </script>
