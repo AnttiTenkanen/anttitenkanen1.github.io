@@ -35,7 +35,7 @@ if ( !(
 //
 // Change this email to the real moderator's email
 //
-$moderator_email = "jswidget@gmail.com";
+$moderator_email = "tenkanen@uef.fi";
 
 $flag  = processText($_POST["flag"]);
 if ( $flag === "1" ){
