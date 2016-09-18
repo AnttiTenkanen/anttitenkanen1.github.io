@@ -76,24 +76,12 @@
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
-  
-  <!-- Easypagecomments -->
-    <link rel="stylesheet" type="text/css" href="/css/EasyPageComments.css"/>
-    <script type="text/javascript" src="/js/EasyPageComments.js"></script>
-    <script type="text/javascript">
-    <!--
-      function showEasyPageComments(name, data) {
-        document.getElementById('Comments').innerHTML = data; }
 
-      function showEasyPageCommentForm(name, data) {
-        document.getElementById('CommentForm').innerHTML = data; }
+<!-- easycomments -->
 
-      function addEasyPageComments() {
-        EasyPageComments.createCommentsList('{{./}}');
-        EasyPageComments.createCommentForm('{{./}}'); }
+<script type="text/javascript" 
+        src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript" 
+        src="http://www.your-domain.com/easy-comment/jquery.easy-comment.min.js"></script>
 
-      document.addEventListener("DOMContentLoaded", addEasyPageComments, false)
-    -->
-    </script>
-  
 </head>
