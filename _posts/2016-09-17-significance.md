@@ -8,9 +8,12 @@ Significant. It's one of those ambiguous words you often hear in connection with
 
 So.
 
-You may not be a scientist, or even the scientifically-inclined type, but reminisce the last time you read some interesting science story from basically any news media. Like maybe your most trusted state-run news organization. Maybe the news was about some habit being connected to a personality trait, maybe about some new promising drug, or maybe even Chances are that in the story there was at least one mention of the results being 'highly significant'. After all, why publish a story if this wasn't the case. But what exactly does it mean?
+You may not be a scientist, or even the scientifically-inclined type, but reminisce the last time you read some interesting science story from basically any news media. Maybe the news was about some habit being connected to a personality trait, or maybe about some new promising drug passing trials. Chances are that in the story there was at least one mention of the results being 'highly significant'. After all, why publish a story if this wasn't the case. Maybe the headline read something like "cats in trees significantly more likely to see firemen in their lifetime than cats who stayed on the lawn!". But what exactly does it mean when we say something is significant?
 
 Let's break it down a bit. 
+
+When you hear the word 'significant' in everyday life, it usually carries some oomph: "humans have had a significant effect on the climate of the Earth", "your mother is significantly overweight", "significant other". In other words, something is seen as important, substantial. But the word has lived a double life for a good part of a century now, the other meaning rather hidden from the public. You see, for scientists from practically every discipline of the (verifiable) sciences,
+
 
 
 
