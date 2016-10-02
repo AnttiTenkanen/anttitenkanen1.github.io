@@ -5,3 +5,4 @@ subtitle:
 ---
 
 9.9.2016:                            Commenting coming soon!
+<div id="my-comment"></div>
